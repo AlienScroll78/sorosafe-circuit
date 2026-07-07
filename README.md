@@ -6,9 +6,7 @@
 
 A zero-trust circuit breaker for Soroban smart contracts. Monitors vault state transitions and executes emergency asset evacuations to prevent high-velocity balance drains (exploits).
 
-**Version:** 1.0.0 | **Status:** ✅ Production Ready | **Deployed:** Testnet
-
-> Built for Drips Wave - Secure vault protection for Stellar
+**Version:** 1.0.0 |  **Deployed:** Testnet
 
 ## Quick Links
 
